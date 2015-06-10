@@ -9,4 +9,6 @@ Spell Helper is a tool to help your English spelling, if you have problem about 
 </p>
 
 
+## License
 
+Released under [MIT](http://rem.mit-license.org/)  LICENSE
