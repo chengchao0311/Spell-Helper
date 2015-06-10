@@ -1,6 +1,6 @@
 ## Spell Helper
 
-Spell Helper is a tool to help you spelling, if you have problem on English spelling like me.  It's base on [Alfred Workflow](http://support.alfredapp.com/workflows) and [Aspell Helper](http://suggest.aspell.net). 
+Spell Helper is a tool to help your English spelling, if you have problem about English spelling like me.  It's base on [Alfred Workflow](http://support.alfredapp.com/workflows) and [Aspell Helper](http://suggest.aspell.net). 
 
 
 ## ScreenShot
